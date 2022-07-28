@@ -14,7 +14,7 @@
 <img width="959" alt="SS1" src="https://user-images.githubusercontent.com/60300485/181605965-f6a7ebce-97d6-4983-8701-b0e2b980f72d.png">
 
 
-<h2>Sort By Genre : </h2>
+<h2>Select Genre : </h2>
 
 <img width="956" alt="SS2" src="https://user-images.githubusercontent.com/60300485/181607798-c0de372e-c0c5-4ee5-8888-29d1ad8e0793.png">
 
