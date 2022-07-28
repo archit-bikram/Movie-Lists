@@ -21,3 +21,7 @@
 <h2>View Info for Movie/Sitcoms:</h2>
 
 <img width="960" alt="SS3" src="https://user-images.githubusercontent.com/60300485/181608037-bed92cac-3d7b-44e9-9961-67e352a30a69.png">
+
+<h2>Search Bar Results:</h2>
+
+<img width="947" alt="SS4" src="https://user-images.githubusercontent.com/60300485/181613971-2554bee2-da80-493a-b9fa-a6eb2e063612.png">
